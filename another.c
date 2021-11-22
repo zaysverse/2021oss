@@ -1,2 +1,2 @@
 another file from tutorial
-저는 10+12=22라고 수정했습니다
+저는 10+22=32라고 수정했습니다
